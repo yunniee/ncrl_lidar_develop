@@ -1,3 +1,9 @@
+/* Arthor :
+ * Date :
+ * Lab :
+ * Purpose :
+ */
+
 #include <ros/ros.h>
 #include <sensor_msgs/PointCloud2.h>
 // include PCL(point cloud library)
